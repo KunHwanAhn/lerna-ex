@@ -1,0 +1,7 @@
+{
+  "name": "pkg-1",
+  "version": "0.0.1",
+  "description": "lerna pkg-1",
+  "author": "Conan Kunhwan Ahn <kunhwon@gmail.com>",
+  "license": "MIT"
+}
