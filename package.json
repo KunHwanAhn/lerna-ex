@@ -1,0 +1,12 @@
+{
+  "name": "lerna-ex",
+  "version": "0.0.1",
+  "description": "Repository for studying lerna",
+  "main": "index.js",
+  "repository": "https://github.com/KunHwanAhn/lerna-ex.git",
+  "author": "Conan Kunhwan Ahn <kunhwon@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
